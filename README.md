@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nikhil930/nikhil930/blob/main/Github%20Banner.svg" width = "200" alt="logo">
+  <img src="Github_Main_Img.svg" width = "275" alt="logo">
 </div>
 <h1 align="center">Heyy !! It's me Nikhil Raghuvanshi :)</h1>
 <h3 align="center">Engineer @ ZS Associates, Pune || Former Intern @ Persistent ||GeeksforGeeks</h3>
